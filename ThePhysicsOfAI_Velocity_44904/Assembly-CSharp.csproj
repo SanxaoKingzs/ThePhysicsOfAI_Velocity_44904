@@ -53,8 +53,10 @@
     <UnityVersion>2022.3.9f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\AIShell.cs" />
     <Compile Include="Assets\Scripts\MoveShell.cs" />
     <Compile Include="Assets\Scripts\DestroyShell.cs" />
+    <Compile Include="Assets\Scripts\FireShell.cs" />
     <Compile Include="Assets\Scripts\Shell.cs" />
     <Compile Include="Assets\Scripts\Drive.cs" />
   </ItemGroup>
